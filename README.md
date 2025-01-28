@@ -35,6 +35,5 @@ This project uses Git for version control, enabling easy tracking of changes and
 
 Output of the project:
 
-![Screenshot 2025-01-12 154602](https://github.com/user-attachments/assets/abee1041-1878-4712-b858-89e72eea5ce0)
 
 ![Screenshot 2025-01-12 154705](https://github.com/user-attachments/assets/1be712cc-9e9c-43df-b8ed-bbdbd5f91b4c)
